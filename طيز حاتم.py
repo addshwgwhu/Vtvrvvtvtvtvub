@@ -560,20 +560,20 @@ def passwrd():
 					pass
 				else:
 					pwv.append(nmf)
-					pwv.append("112233qqwwee")
+					pwv.append("112233445566")
 					pwv.append(frs+"123")
-					pwv.append(frs+'2005')
-					pwv.append('12345qwert')
+					pwv.append(frs+'2000')
+					pwv.append('1234@@@@')
 			else:
 				if len(frs)<3:
 					pwv.append(nmf)
-					pwv.append('07500750')
-					pwv.append('07700770')
+					pwv.append('1234512345')
+					pwv.append('qqwweerrttyy')
 					pwv.append('ppooiiuu')
 					pwv.append('1122334455')
 					pwv.append('11223344@@')
 					pwv.append('mmnnbbvvccxxzz')
-					pwv.append('qwertyuiopasdfghjkl')
+					pwv.append('aassddffgghhjjkkll')
 				else:
 					pwv.append(nmf)
 					pwv.append('20202020')
