@@ -1,6 +1,3 @@
-print('\x1b[0;33m تم انتهاء المدة المجانيه للاشتراك قم بل تواصل مع المطور @tf_r7 ')
-
-exit()
 import subprocess
 libraries = [
     "urllib3",
