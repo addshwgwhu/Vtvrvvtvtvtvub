@@ -50,8 +50,8 @@ a37 = '\x1b[38;5;172m'  # ذهبي داكن
 a38 = '\x1b[38;5;188m'  # فضي فاتح
 a39 = '\x1b[38;5;247m'  # فضي داكن
 a40 = '\x1b[1;94m'  # أزرق سماوي
-TBO ='6982780866:AAGIZ0k4pxNdstwjZn_dFovWinXEg4Td1K4'
-ID9 = 647776789
+TBO ='5892525344:AAGer5nA5rengxKmIY9F9nnjmsEZr89dfFc'
+ID9 = 5133630165
 import sys,time,os
 class TBOA1:
     def __init__(self,z):
