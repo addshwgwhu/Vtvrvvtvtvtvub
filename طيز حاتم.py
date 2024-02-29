@@ -1,6 +1,3 @@
-print('\x1b[0;33m تم انتهاء المدة المجانيه للاشتراك قم بل تواصل مع المطور @tf_r7 ')
-
-exit()
 import subprocess
 libraries = [
     "urllib3",
@@ -563,14 +560,14 @@ def passwrd():
 					pass
 				else:
 					pwv.append(nmf)
-					pwv.append("112233445566")
+					pwv.append("aassddff")
 					pwv.append(frs+"123")
-					pwv.append(frs+'2000')
+					pwv.append(frs+'2008')
 					pwv.append('1234@@@@')
 			else:
 				if len(frs)<3:
 					pwv.append(nmf)
-					pwv.append('1234512345')
+					pwv.append('1234554321')
 					pwv.append('qqwweerr')
 					pwv.append('ppooiiuu')
 					pwv.append('1122334455')
