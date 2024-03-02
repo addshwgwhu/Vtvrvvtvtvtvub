@@ -7,7 +7,6 @@ libraries = [
 ]
 for lib in libraries:
     subprocess.check_call(["pip", "install", lib])
-
 r9 = '\x1b[1;38;5;141m'
 r7 = '\x1b[1;38;5;131m'
 a1 = '\x1b[1;31m'  # أحمر
